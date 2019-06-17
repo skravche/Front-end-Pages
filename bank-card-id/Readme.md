@@ -1,0 +1,1 @@
+To start enter: `npm install`
